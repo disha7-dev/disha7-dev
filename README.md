@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi,i am Disha 👋
 
-<!--
-**disha7-dev/disha7-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech CSE Student
+Python | Machine Learning
+C++ | Data Structures
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### High Precision Microchip Failure Classification
+SVM -based machine learning project for classifying microchips as Functional or Defecetive.
+
+## Skills
+-Python
+-Machine Learning
+-C++
+-Data Structures
+-Jupyter Notebook
